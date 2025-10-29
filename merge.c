@@ -1,3 +1,6 @@
+//I HAVE ADDED 2 PRGRAMS IN THIS FILE SO READ THE QUESTION CAREFULLY BEFORE COPYING THE CODE
+
+
 // To implement the Merge Sort algorithm using the divide and conquer strategy
 
 #include<stdio.h>
@@ -72,6 +75,8 @@ int main() {
     printArray(arr, arr_size);
     return 0;
 }
+
+
 
 
 
